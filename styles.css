@@ -1,0 +1,37 @@
+body {
+    background-color: #F0F3FF;
+}
+
+
+.content {
+    background-color:#836FFF ;
+    padding-bottom: 50px;
+}
+
+.content h1 {
+    text-align: center;
+    padding: 30px;
+    color: #211951;
+}
+   
+.list {
+
+    margin : 0px auto ;
+    width: 50%;
+    background-color:#211951;
+    padding: 16px;
+    color: #15F5BA;
+}
+
+.list li {
+    padding: 20px;
+}
+
+.list a {
+    color: #15F5BA; 
+    text-decoration: none; 
+}
+
+.list a:hover {
+    color: #FFDD57; 
+}
